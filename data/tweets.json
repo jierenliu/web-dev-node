@@ -17,7 +17,8 @@
       "comments": 123,
       "retweets": 234,
       "likes": 345
-    }
+    },
+    "liked": false
   },
   {
     "_id": "567",
@@ -38,7 +39,8 @@
       "comments": 123,
       "retweets": 234,
       "likes": 345
-    }
+    },
+    "liked": false
   },
   {
     "_id": "234",
@@ -57,7 +59,8 @@
       "comments": 123,
       "retweets": 234,
       "likes": 345
-    }
+    },
+    "liked": false
   },
   {
     "_id": "345",
@@ -75,7 +78,8 @@
       "comments": 123,
       "retweets": 234,
       "likes": 345
-    }
+    },
+    "liked": false
   },
   {
     "_id": "456",
@@ -93,6 +97,7 @@
       "comments": 123,
       "retweets": 234,
       "likes": 345
-    }
+    },
+    "liked": false
   }
 ]
